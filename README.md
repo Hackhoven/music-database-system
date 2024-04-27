@@ -11,6 +11,14 @@ This repository contains the Music Database System, a simple music database desi
 - **queries.sql** - A collection of SQL queries demonstrating basic operations like data insertion, update, retrieval, and deletion within the database.
 - **README.md** - This documentation file.
 
+## Diagrams
+
+### Entity Relationship Diagram (ERD)
+![Entity Relationship Diagram](ERD.png)
+
+### Relational Model Diagram
+![Relational Model Diagram](Relational.png)
+
 ## Getting Started
 
 ### Prerequisites
@@ -48,6 +56,3 @@ Utilize this database to understand how a basic music streaming service could ma
 
 ## Contributions
 Feel free to fork this project and adapt it to your needs. Contributions, suggestions, and improvements are welcome.
-
-## License
-This project is available under the MIT License. See the LICENSE file for more details.
