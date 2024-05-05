@@ -9,7 +9,6 @@ This repository contains the Music Database System, a simple music database desi
 - **drawSQL-mysql-export.sql** - MySQL export file with the database schema. This file was generated using drawSQL.
 - **music.sql** - SQL script for creating database tables and inserting initial data.
 - **queries.sql** - A collection of SQL queries demonstrating basic operations like data insertion, update, retrieval, and deletion within the database.
-- **README.md** - This documentation file.
 
 ## Diagrams
 
